@@ -1,0 +1,1 @@
+# jantar_filosofo_terminal
